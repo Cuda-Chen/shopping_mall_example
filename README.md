@@ -22,3 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+## Reference
+- Part 1
+    - https://railsbook.tw/chapters/27-shopping-cart-part-1.html
