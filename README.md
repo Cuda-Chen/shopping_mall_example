@@ -26,3 +26,5 @@ Things you may want to cover:
 ## Reference
 - Part 1
     - https://railsbook.tw/chapters/27-shopping-cart-part-1.html
+- Part 2
+    - https://railsbook.tw/chapters/28-shopping-cart-part-2.html
