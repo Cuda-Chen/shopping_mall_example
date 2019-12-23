@@ -33,3 +33,5 @@ Things you may want to cover:
 - Braintree integration
     - https://railsbook.tw/chapters/31-payment-with-paypal.html
     - **unsuccessful**
+- Deploy on Heroku
+    - https://railsbook.tw/chapters/32-deployment-with-heroku.html#install-heroku-toolkit
