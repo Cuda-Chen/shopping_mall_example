@@ -51,4 +51,9 @@ Rails.application.configure do
   # Use an evented file watcher to asynchronously detect changes in source code,
   # routes, locales, etc. This feature depends on the listen gem.
   config.file_watcher = ActiveSupport::EventedFileUpdateChecker
+
+  Braintree::Configuration.environment = :sandbox
+  Braintree::Configuration.merchant_id = 'm2jf7tbrggywwzm2'
+  Braintree::Configuration.public_key = 'qk49yv5746sx4x5m'
+  Braintree::Configuration.private_key = 'bc807d3f9c003756697ab2dd747cda1b'
 end

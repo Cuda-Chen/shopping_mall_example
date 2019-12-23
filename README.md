@@ -30,3 +30,6 @@ Things you may want to cover:
     - https://railsbook.tw/chapters/28-shopping-cart-part-2.html
 - Part 3
     - https://railsbook.tw/chapters/29-shopping-cart-part-3.html
+- Braintree integration
+    - https://railsbook.tw/chapters/31-payment-with-paypal.html
+    - **unsuccessful**

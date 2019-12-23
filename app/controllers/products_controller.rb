@@ -34,6 +34,10 @@ class ProductsController < ApplicationController
     redirect_to products_path, notice: "商品已刪除"
   end
 
+  def show
+    @client_token = Braintree::ClientToken.generate
+  end
+
   private
   def find_product
     @product = Product.find_by(id: params[:id])
